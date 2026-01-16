@@ -1,2 +1,2 @@
 # Python-
-Commit ,Stabilize &amp; Regulate
+Commit,Stabilize &amp; Regulate
